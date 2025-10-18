@@ -1,0 +1,8 @@
+Country: de
+log(totbookings+1) = 7.4918 + -0.0044*log(cost_brand_normalized+1) + 0.1313*log(cost_nonbrand_normalized+1) + 0.1701*log(cost_meta_normalized+1) + 0.0991*log(cost_remarketing_normalized+1) + 0.0000*log(cost_email_normalized+1) + controls
+
+Country: gb
+log(totbookings+1) = 6.4786 + 0.0264*log(cost_brand_normalized+1) + 0.2464*log(cost_nonbrand_normalized+1) + 0.1602*log(cost_meta_normalized+1) + 0.0403*log(cost_remarketing_normalized+1) + -0.0000*log(cost_email_normalized+1) + controls
+
+Country: us
+log(totbookings+1) = 5.4925 + 0.0385*log(cost_brand_normalized+1) + 0.1363*log(cost_nonbrand_normalized+1) + 0.2646*log(cost_meta_normalized+1) + 0.1022*log(cost_remarketing_normalized+1) + 0.0000*log(cost_email_normalized+1) + controls

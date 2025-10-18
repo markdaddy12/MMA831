@@ -1,0 +1,16 @@
+country,channel,ADBUDG_c,concave_flag
+de,Branded PPC,1.7829543774584802,False
+de,Non-Branded PPC,0.8481743022511853,True
+de,Metasearch,0.8567106686750009,True
+de,Remarketing,1.0303803074282047,False
+de,Email,0.8,True
+gb,Branded PPC,0.3610000929422671,True
+gb,Non-Branded PPC,0.7678827038666418,True
+gb,Metasearch,0.809111301816166,True
+gb,Remarketing,0.9981046766814319,True
+gb,Email,0.8,True
+us,Branded PPC,2.7610539838467507,False
+us,Non-Branded PPC,0.7595042474221131,True
+us,Metasearch,0.6407703868311962,True
+us,Remarketing,0.9898413904434421,True
+us,Email,0.8,True
